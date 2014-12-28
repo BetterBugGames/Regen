@@ -103,9 +103,11 @@ class StoryController extends BaseController {
 			"This interactive fiction game was brought to you by Better Bug Games",
 			"You can find out more about us or play our other games at
 			 <a href='http://BetterBugGames.com'>BetterBugGames.com</a>",
+			"or follow us on Twitter <a href='http://twitter.com/BetterBugGames'>@BetterBugGames</a>",
 			"",
 			"Programmed by: Jason Quesenberry",
 			"Written by: Jason Quesenberry",
+			"Follow me on Twitter: <a href='http://twitter.com/JasonQ_BBG'>@JasonQ_BBG</a>",
 			"",
 			"Based on a writing prompt from
 	<a href=http://www.reddit.com/r/WritingPrompts/comments/2of4p5/wp_one_day_in_high_school_you_unintentionally_get>
