@@ -222,8 +222,8 @@ class StoryController extends BaseController {
 	{
 		$paragraphs = array(
 			"Without thinking, without considering consequences, before rationalizations, failing to register if it's
-			 even in your very nature or not, your fist clenches, knuckles ball, and suddenly your fury has physical
-			 presence as you assault back.",
+			 even in your very nature or not, your fist clenches and suddenly your fury has physical presence as you
+			 assault back.",
 	        "You no longer care if you get hurt, just that you hurt.",
 	        "You don't feel the pain as his harder, faster, more accurate fists strike back.",
 			"It isn't about what he'll do to you anymore; it's about not just sitting back and letting it happen.",
@@ -345,7 +345,7 @@ class StoryController extends BaseController {
 	{
 		$paragraphs = array(
 			"Pain rips through you again as you grasp the polished wooden handle and yank the knife out. You're dimly
-			 aware of a new rush of blood falling to the floor as the knife falls from your numb fingers. Then the world
+			 aware of a new rush of blood dripping to the floor as the knife falls from your numb fingers. Then the world
 			 is white as your face collides with the tiles of the hall. Somewhere far, far away, someone screams.",
 		);
 		$actions = array(
@@ -362,7 +362,7 @@ class StoryController extends BaseController {
 			 longer. But he isn't here anymore. You can feel his presence fading from here. The coward fled the moment
 			 he realized what he had done.",
         	"With a wave of your hand, the gawking students are flung to the sides of the hallway and into the lockers
-	         normally used to bear the impact of your body.",
+	         that normally bear the impact of your body.",
 	        "Effortlessly, you glide down the hallway in the direction of the bully, following his scent. You can feel
 			 his fear, taste the adrenaline. He's scared. But he liked it.",
         	"Not for long. He is near.",
@@ -478,8 +478,8 @@ class StoryController extends BaseController {
 			"The air seems to thicken as your body slams into a bright red locker, one of many lining the school
         	 hallways. As usual, when the bullies come out of the woodwork to ply their trade on your muscles and
         	 bones more calibrated towards reading and sitting at a desk than throwing balls or punches, time seems
-        	 to slow, your breath comes in thick clouds, and the cacophony of fellow students cheering is drowned
-        	 by a viscous humming that drowns out everything else. You only have to wait this out...",
+        	 to slow, your breath comes in thick clouds, and the cacophony of fellow students cheering is drowned out
+        	 by a viscous humming. You only have to wait this out...",
         	"Eventually it will be over, just like every time before.",
 		);
 		$actions = array(
